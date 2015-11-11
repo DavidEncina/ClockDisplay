@@ -1,8 +1,11 @@
 #BlueJ class context
-comment0.params=hora\ segundo
-comment0.target=ClockDisplay(int,\ int)
+comment0.params=
+comment0.target=ClockDisplay()
 comment0.text=\r\n\ Crea\ un\ reloj.\r\n
-comment1.params=horas\ segundos
+comment1.params=h\ m
 comment1.target=void\ setTime(int,\ int)
 comment1.text=\r\n\ Se\ introducen\ horas\ y\ segundos\ para\ cambiar\ la\ hora\ del\ reloj.\r\n
-numComments=2
+comment2.params=
+comment2.target=void\ timeTick()
+comment2.text=\r\n\ Permite\ avanzar\ el\ tiempo\ 1\ minuto.\r\n
+numComments=3
